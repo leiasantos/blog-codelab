@@ -14,7 +14,8 @@ A **CodeLab** é uma comunidade com desafios de desenvolvimento front-end, criad
 ### 📸 Preview do Projeto  
 
 
-![desafio-blog-mu_vercel](https://github.com/user-attachments/assets/382c6b86-d537-425a-9e99-6161e469ed6b)
+<img width="1536" height="1321" alt="blog-codelab-lake_vercel" src="https://github.com/user-attachments/assets/d01c30e7-1212-46a4-b7c7-ed0ff30d9bfa" />
+
 
 
 ---
